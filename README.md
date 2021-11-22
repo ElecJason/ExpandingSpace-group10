@@ -1,2 +1,2 @@
-# ExpandingSpace-group10
+# Cuphead Remake
 expanding space project
