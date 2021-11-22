@@ -1,2 +1,2 @@
-# Cuphead Remake
+# Airhead game
 expanding space project
